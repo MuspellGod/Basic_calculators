@@ -1,0 +1,7 @@
+super user created
+username: acer
+password: 1234
+email: tanjaleef@gmail.com
+
+
+customer table user is set to default as 10000
